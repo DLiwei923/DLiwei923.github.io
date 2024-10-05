@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. degree from Tongji Universiy in September 2024. My research interests include Smart sensing and energy harvesting, MEMS dynamics, Flow-induced vibrations, Nonlinear dynamics. Seeking collaborators in related fields for research collaboration.
+I obtained my Ph.D. degree from Tongji Universiy in September 2024. My research interests include Smart sensing and energy harvesting, MEMS dynamics, Flow-induced vibrations, Nonlinear dynamics. 
+Seeking collaborators in related fields for research collaboration.
 
 Selected Publications
 ======
 [12] Dong Liwei, Zuo Jianyong. Vibration-adaptive energy management technology for self-sufficient wireless ECP braking systems on heavy-haul trains. Mechanical Systems and Signal Processing 2025; 223:111940. (SCI, JCR Q1, IF=7.9) doi:
+
 [11] Dong Liwei, Ke Yun, Liao Yifan, Wang Jingyu, Gao Mingyuan, Yang Yaowen, Li Jun, Yang Fan, Rational Modeling and Design of Piezoelectric Biomolecular Thin Films toward Enhanced Energy Harvesting and Sens-ing, Advanced Functional Materials 2024; 2410566. (SCI, JCR Q1, IF=18.5) doi:
+
 [10] Dong Liwei, Hu Guobiao, Zhang Ye, Ding Wei, Qu Shuai, Tang Qian, Zhao Chaoyang, Yang Fan, Yang Yaowen, Metasurface-enhanced multifunctional flag nanogenerator for efficient wind energy harvesting and en-vironmental sensing. Nano Energy 2024; 124:109508. (SCI, JCR Q1, IF=16.5)
+
 [9] Dong Liwei, Tang Qian, Zhao Chaoyang, Hu Guobiao, Qu Shuai, Liu Zichen, Yang Yaowen, Flag-type hy-brid nanogenerator utilizing flapping wakes for consistent high performance over an ultra-broad wind speed range. Nano Energy 2024; 119:109057. (SCI, JCR Q1, IF=16.5)
 [8] Dong Liwei, Zhang Heli, Yu Jie, Hu Guobiao. Energy harvesting potential assessment and systematic de-sign for energy-regenerative shock absorbers on railway freight wagons. Journal of Intelligent Material Systems and Structures 2023;35(3):270-90. (SCI, JCR Q3，IF: 2.7)
 [7] Dong Liwei, Hu Guobiao, Yu Jie, Zhao Chaoyang, Qu Shuai, Yang Yaowen. Maximizing onboard power generation of large-scale railway vibration energy harvesters with intricate vehicle-harvester-circuit coupling relationships. Applied Energy 2023; 254: 121388. (SCI, JCR Q1, IF=11.2)
