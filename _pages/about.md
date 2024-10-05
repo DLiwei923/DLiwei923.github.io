@@ -9,6 +9,12 @@ redirect_from:
 
 My research interests include Smart sensing and energy harvesting, MEMS dynamics, Flow-induced vibrations, Nonlinear dynamics. 
 
+I have research/project experience in the following aspects:
+
+* Pizoelectric/triboelectric sensors for <b>healthcare monitoring, Internet of Things (IoT) and human-machine interface (HMI)</b> applications
+* <b>Flow induced vibration (FIV)</b>-based wind energy harvesting and galloping suppression
+* Rotary electromagnetic vibration energy harvesters (<b>Output power at Watt level</b>) and their circuit interface
+
 Seeking collaborators in related fields for research collaboration.
 
 Email: victor@tongji.edu.cn; waynelw923@gmail.com
