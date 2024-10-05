@@ -13,7 +13,7 @@ Seeking collaborators in related fields for research collaboration.
 
 Selected Publications
 ======
-[12] <b>Dong Liwei</b>, Zuo Jianyong. Vibration-adaptive energy management technology for self-sufficient wireless ECP braking systems on heavy-haul trains. <i><b>Mechanical Systems and Signal Processing</i></b> 2025; 223:111940. (SCI, JCR Q1, IF=7.9) [doi:10.1016/j.ymssp.2024.111940](https://doi.org/10.1016/j.ymssp.2024.111940)
+[12] <b>Dong Liwei</b>, Zuo Jianyong. Vibration-adaptive energy management technology for self-sufficient wireless ECP braking systems on heavy-haul trains. <i><b>Mechanical Systems and Signal Processing</b></i> 2025; 223:111940. (SCI, JCR Q1, IF=7.9) [doi:10.1016/j.ymssp.2024.111940](https://doi.org/10.1016/j.ymssp.2024.111940)
 
 [11] <b>Dong Liwei</b>, Ke Yun, Liao Yifan, Wang Jingyu, Gao Mingyuan, Yang Yaowen, Li Jun, Yang Fan, Rational Modeling and Design of Piezoelectric Biomolecular Thin Films toward Enhanced Energy Harvesting and Sensing, <i><b>Advanced Functional Materials</i></b> 2024; 2410566. (SCI, JCR Q1, IF=18.5) [doi:10.1002/adfm.202410566](https://doi.org/10.1002/adfm.202410566)
 
