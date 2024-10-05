@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-11111.
+I obtained my Ph.D. degree from Tongji Universiy in September 2024. My research interests include Smart sensing and energy harvesting, MEMS dynamics, Flow-induced vibrations, Nonlinear dynamics. Seeking collaborators in related fields for research collaboration.
 
 Publications
 ======
