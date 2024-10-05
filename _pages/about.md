@@ -11,6 +11,8 @@ My research interests include Smart sensing and energy harvesting, MEMS dynamics
 
 Seeking collaborators in related fields for research collaboration.
 
+Email:victor@tongji.edu.cn/waynelw923@gmail.com
+
 Selected Publications
 ======
 [12] <b>Dong Liwei</b>, Zuo Jianyong. Vibration-adaptive energy management technology for self-sufficient wireless ECP braking systems on heavy-haul trains. <i><b>Mechanical Systems and Signal Processing</b></i> 2025; 223:111940. (SCI, JCR Q1, IF=7.9) [doi:10.1016/j.ymssp.2024.111940](https://doi.org/10.1016/j.ymssp.2024.111940)
@@ -49,4 +51,4 @@ Other Publications
 
 Peer Review
 ======
-Advanced Materials, Mechanical Systems and Signal Processing, IEEE Transactions on Intelligent Transportation Systems
+<i><b>Advanced Materials, Mechanical Systems and Signal Processing, IEEE Transactions on Intelligent Transportation Systems
