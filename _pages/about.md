@@ -11,7 +11,7 @@ My research interests include Smart sensing and energy harvesting, MEMS dynamics
 
 Seeking collaborators in related fields for research collaboration.
 
-Email:victor@tongji.edu.cn/waynelw923@gmail.com
+Email: victor@tongji.edu.cn; waynelw923@gmail.com
 
 Selected Publications
 ======
@@ -51,4 +51,4 @@ Other Publications
 
 Peer Review
 ======
-<i><b>Advanced Materials, Mechanical Systems and Signal Processing, IEEE Transactions on Intelligent Transportation Systems
+Advanced Materials, Mechanical Systems and Signal Processing, IEEE Transactions on Intelligent Transportation Systems
