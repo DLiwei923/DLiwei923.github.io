@@ -9,7 +9,7 @@ redirect_from:
 
 My research interests include Smart sensing and energy harvesting, MEMS dynamics, Flow-induced vibrations, Nonlinear dynamics. 
 
-I have research/project experience in the following aspects:
+I have research/project experiences in the following aspects:
 
 * Pizoelectric/triboelectric sensors for <b>healthcare monitoring, Internet of Things (IoT) and human-machine interface (HMI)</b> applications
 * <b>Flow induced vibration (FIV)</b>-based wind energy harvesting and galloping suppression
