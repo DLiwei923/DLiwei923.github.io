@@ -29,7 +29,7 @@ Selected Publications
 
 [9] <b>Dong Liwei</b>, Tang Qian, Zhao Chaoyang, Hu Guobiao, Qu Shuai, Liu Zichen, Yang Yaowen, Flag-type hy-brid nanogenerator utilizing flapping wakes for consistent high performance over an ultra-broad wind speed range. <i><b>Nano Energy</b></i> 2024; 119:109057. (SCI, JCR Q1, IF=16.5) [doi:10.1016/j.nanoen.2023.109057](https://doi.org/10.1016/j.nanoen.2023.109057)
 
-[8] <b>Dong Liwei</b>, Zhang Heli, Yu Jie, Hu Guobiao. Energy harvesting potential assessment and systematic de-sign for energy-regenerative shock absorbers on railway freight wagons. <i><b>Journal of Intelligent Material Systems and Structures</b></i> 2023;35(3):270-90. (SCI, JCR Q3，IF: 2.7) [doi:10.1177/1045389X231200146](https://doi.org/10.1177/1045389X231200146)
+[8] <b>Dong Liwei</b>, Zhang Heli, Yu Jie, Hu Guobiao. Energy harvesting potential assessment and systematic design for energy-regenerative shock absorbers on railway freight wagons. <i><b>Journal of Intelligent Material Systems and Structures</b></i> 2023;35(3):270-90. (SCI, JCR Q3，IF: 2.7) [doi:10.1177/1045389X231200146](https://doi.org/10.1177/1045389X231200146)
 
 [7] <b>Dong Liwei</b>, Hu Guobiao, Yu Jie, Zhao Chaoyang, Qu Shuai, Yang Yaowen. Maximizing onboard power generation of large-scale railway vibration energy harvesters with intricate vehicle-harvester-circuit coupling relationships. <i><b>Applied Energy</b></i> 2023; 254: 121388. (SCI, JCR Q1, IF=11.2) [doi:10.1016/j.apenergy.2023.121388](https://doi.org/10.1016/j.apenergy.2023.121388)
 
