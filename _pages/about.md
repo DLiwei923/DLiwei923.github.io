@@ -51,7 +51,7 @@ Other Publications
 
 [3] Qu Shuai, Ren Yuhao, Hu Guobiao, Ding Wei, <b>Dong Liwei</b>, Yang Jizhong, Wu Zaixin, Zhu Shengyang, Yang Yaowen, Zhai Wanming. Event-driven piezoelectric energy harvesting for railway field applications. <i><b>Applied Energy</b></i> 2024; 364:123160. (SCI, JCR Q1, IF=10.1) [doi:10.1016/j.apenergy.2024.123160](https://doi.org/10.1016/j.apenergy.2024.123160)
 
-[2] Qu Shuai, Ding Wei, <b>Dong Liwei</b>, Zhu Jian, Zhu Shengyang, Yang Yaowen, Zhaiwanming. Chiral phono-nic crystal-inspired railway track for low-frequency vibration suppression. <i><b>International Journal of Mechanical Sciences</b></i> 2024; 274:109275. (SCI, JCR Q1, IF=7.1) [doi:10.1016/j.ijmecsci.2024.109275](https://doi.org/10.1016/j.ijmecsci.2024.109275)
+[2] Qu Shuai, Ding Wei, <b>Dong Liwei</b>, Zhu Jian, Zhu Shengyang, Yang Yaowen, Zhaiwanming. Chiral phononic crystal-inspired railway track for low-frequency vibration suppression. <i><b>International Journal of Mechanical Sciences</b></i> 2024; 274:109275. (SCI, JCR Q1, IF=7.1) [doi:10.1016/j.ijmecsci.2024.109275](https://doi.org/10.1016/j.ijmecsci.2024.109275)
 
 [1] Yang Fan, Zhang Pan, Wang Yuan, Wei Kai, <b>Dong Liwei</b>, Wang Ping. Refined nonlinear fractional derivative model of vehicle-track coupling dynamics, <i><b>International Journal of Non-Linear Mechanics</b></i>, 2023; 154:104444. (SCI, JCR Q2, IF=3.2) [doi:10.1016/j.ijnonlinmec.2023.104444](https://doi.org/10.1016/j.ijnonlinmec.2023.104444)
 
