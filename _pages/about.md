@@ -27,7 +27,7 @@ Selected Publications
 
 [10] <b>Dong Liwei</b>, Hu Guobiao, Zhang Ye, Ding Wei, Qu Shuai, Tang Qian, Zhao Chaoyang, Yang Fan, Yang Yaowen, Metasurface-enhanced multifunctional flag nanogenerator for efficient wind energy harvesting and environmental sensing. <i><b>Nano Energy</b></i> 2024; 124:109508. (SCI, JCR Q1, IF=16.5) [doi:10.1016/j.nanoen.2024.109508](https://doi.org/10.1016/j.nanoen.2024.109508)
 
-[9] <b>Dong Liwei</b>, Tang Qian, Zhao Chaoyang, Hu Guobiao, Qu Shuai, Liu Zichen, Yang Yaowen, Flag-type hy-brid nanogenerator utilizing flapping wakes for consistent high performance over an ultra-broad wind speed range. <i><b>Nano Energy</b></i> 2024; 119:109057. (SCI, JCR Q1, IF=16.5) [doi:10.1016/j.nanoen.2023.109057](https://doi.org/10.1016/j.nanoen.2023.109057)
+[9] <b>Dong Liwei</b>, Tang Qian, Zhao Chaoyang, Hu Guobiao, Qu Shuai, Liu Zichen, Yang Yaowen, Flag-type hybrid nanogenerator utilizing flapping wakes for consistent high performance over an ultra-broad wind speed range. <i><b>Nano Energy</b></i> 2024; 119:109057. (SCI, JCR Q1, IF=16.5) [doi:10.1016/j.nanoen.2023.109057](https://doi.org/10.1016/j.nanoen.2023.109057)
 
 [8] <b>Dong Liwei</b>, Zhang Heli, Yu Jie, Hu Guobiao. Energy harvesting potential assessment and systematic design for energy-regenerative shock absorbers on railway freight wagons. <i><b>Journal of Intelligent Material Systems and Structures</b></i> 2023;35(3):270-90. (SCI, JCR Q3，IF: 2.7) [doi:10.1177/1045389X231200146](https://doi.org/10.1177/1045389X231200146)
 
