@@ -21,7 +21,7 @@ Email: victor@tongji.edu.cn; waynelw923@gmail.com
 
 Selected Publications
 ======
-[13] <b>Dong Liwei</b>,Hu Guobiao, Qian Tang, Zhao Chaoyang, Yang Fan, Yang Yaowen. Advanced aerodynamics-driven energy harvesting leveraging galloping-flutter synergy. <i><b>Advanced Functional Materials</b></i> 2024; 202414324. (SCI, JCR Q1, IF=18.5) [doi:10.1002/adfm.202414324](https://doi.org/10.1002/adfm.202414324)
+[13] <b>Dong Liwei</b>, Hu Guobiao, Qian Tang, Zhao Chaoyang, Yang Fan, Yang Yaowen. Advanced aerodynamics-driven energy harvesting leveraging galloping-flutter synergy. <i><b>Advanced Functional Materials</b></i> 2024; 202414324. (SCI, JCR Q1, IF=18.5) [doi:10.1002/adfm.202414324](https://doi.org/10.1002/adfm.202414324)
 
 [12] <b>Dong Liwei</b>, Zuo Jianyong. Vibration-adaptive energy management technology for self-sufficient wireless ECP braking systems on heavy-haul trains. <i><b>Mechanical Systems and Signal Processing</b></i> 2025; 223:111940. (SCI, JCR Q1, IF=7.9) [doi:10.1016/j.ymssp.2024.111940](https://doi.org/10.1016/j.ymssp.2024.111940)
 
