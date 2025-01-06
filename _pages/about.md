@@ -22,7 +22,7 @@ Email: victor@tongji.edu.cn; waynelw923@gmail.com
 Selected Publications
 ======
 
-[14] <b>Dong Liwei</b>, Zhao Chaoyang, Qu Shuai, Ding Wei, Hu Guobiao, Han Chengjia, Yang Yaowen. Structural galloping suppression with high-frequency flutter. <i><b>International Journal of Mechanical Sciences</b></i> 2025:109928. (SCI, JCR Q1, IF=18.5) [doi:10.1016/j.ijmecsci.2025.109928](https://doi.org/10.1016/j.ijmecsci.2025.109928)
+[14] <b>Dong Liwei</b>, Zhao Chaoyang, Qu Shuai, Ding Wei, Hu Guobiao, Han Chengjia, Yang Yaowen. Structural galloping suppression with high-frequency flutter. <i><b>International Journal of Mechanical Sciences</b></i> 2025:109928. (SCI, JCR Q1, IF=7.1) [doi:10.1016/j.ijmecsci.2025.109928](https://doi.org/10.1016/j.ijmecsci.2025.109928)
 
 [13] <b>Dong Liwei</b>, Hu Guobiao, Qian Tang, Zhao Chaoyang, Yang Fan, Yang Yaowen. Advanced aerodynamics-driven energy harvesting leveraging galloping-flutter synergy. <i><b>Advanced Functional Materials</b></i> 2024; 202414324. (SCI, JCR Q1, IF=18.5) [doi:10.1002/adfm.202414324](https://doi.org/10.1002/adfm.202414324)
 
