@@ -21,6 +21,9 @@ Email: victor@tongji.edu.cn; waynelw923@gmail.com
 
 Selected Publications
 ======
+[16] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
+
+[15] Jingkai Zhang#, Ruowan Li#, <b>Dong Liwei</b>#, Ke Yun, Liu Chang, Pei Mingliang, Hu Kaiming, Ruan Jing, Li Jun, Yang Fan. Ultrasensitive biodegradable piezoelectric sensors with localized stress concentration strategy for real-time physiological monitoring. <i><b>Chemical Engineering Journal</b></i> 2025:160521. (SCI, JCR Q1, IF=13.4) [doi:10.1016/j.cej.2025.160521](https://doi.org/10.1016/j.cej.2025.160521)
 
 [14] <b>Dong Liwei</b>, Zhao Chaoyang, Qu Shuai, Ding Wei, Hu Guobiao, Han Chengjia, Yang Yaowen. Structural galloping suppression with high-frequency flutter. <i><b>International Journal of Mechanical Sciences</b></i> 2025:109928. (SCI, JCR Q1, IF=7.1) [doi:10.1016/j.ijmecsci.2025.109928](https://doi.org/10.1016/j.ijmecsci.2025.109928)
 
