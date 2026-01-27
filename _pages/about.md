@@ -21,6 +21,14 @@ Email: victor@tongji.edu.cn; waynelw923@gmail.com
 
 Selected Publications
 ======
+[20] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
+
+[19] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
+
+[18] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
+
+[17] <b>Dong Liwei</b>, Tang Qian, Li Xin et al. Vortex-flutter internal resonance: A new mechanism for wind energy harvesting. <i><b>Nano Energy</b></i> 2025:111339. [doi:10.1016/j.nanoen.2025.111339](https://doi.org/10.1016/j.nanoen.2025.111339)
+
 [16] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
 
 [15] Jingkai Zhang#, Ruowan Li#, <b>Dong Liwei</b>#, Ke Yun, Liu Chang, Pei Mingliang, Hu Kaiming, Ruan Jing, Li Jun, Yang Fan. Ultrasensitive biodegradable piezoelectric sensors with localized stress concentration strategy for real-time physiological monitoring. <i><b>Chemical Engineering Journal</b></i> 2025:160521. (SCI, JCR Q1, IF=13.4) [doi:10.1016/j.cej.2025.160521](https://doi.org/10.1016/j.cej.2025.160521)
@@ -65,4 +73,4 @@ Other Publications
 
 Peer Review
 ======
-Advanced Materials, Mechanical Systems and Signal Processing, IEEE Transactions on Intelligent Transportation Systems
+Nature Communications, Advanced Materials, Applied Energy, Energy Conversion and Management, Mechanical Systems and Signal Processing, IEEE Transactions on Intelligent Transportation Systems, Energy, Automation in Construction, Expert systems with applications.
