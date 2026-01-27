@@ -21,13 +21,13 @@ Email: victor@tongji.edu.cn; waynelw923@gmail.com
 
 Selected Publications
 ======
-[20] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
+[20] <b>Dong Liwei</b>, Zhao Chaoyang, Qu Shuai, et al. Multi‐Domain Energy Harvesting with Mode‐Dependent Magneto‐Mechano‐Electric Coupling. <i><b>Advanced Energy Materials</b></i> 2025:06114. [doi:10.1002/aenm.202506114](https://doi.org/10.1002/aenm.202506114)
 
 [19] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
 
 [18] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
 
-[17] <b>Dong Liwei</b>, Tang Qian, Li Xin et al. Vortex-flutter internal resonance: A new mechanism for wind energy harvesting. <i><b>Nano Energy</b></i> 2025:111339. [doi:10.1016/j.nanoen.2025.111339](https://doi.org/10.1016/j.nanoen.2025.111339)
+[17] <b>Dong Liwei</b>, Tang Qian, Li Xin, et al. Vortex-flutter internal resonance: A new mechanism for wind energy harvesting. <i><b>Nano Energy</b></i> 2025:111339. [doi:10.1016/j.nanoen.2025.111339](https://doi.org/10.1016/j.nanoen.2025.111339)
 
 [16] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
 
