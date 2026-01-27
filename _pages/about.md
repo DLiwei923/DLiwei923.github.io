@@ -27,7 +27,7 @@ Selected Publications
 
 [18] Han Chengjia,... <b>Dong Liwei</b>*, Yang Yaowen. Unsupervised anomaly segmentation model for rail damage based on image-inpainting and cold diffusion. <i><b>Automation in Construction</b></i> 2025:106342. (SCI, JCR Q1, IF=11.5) [doi:10.1016/j.autcon.2025.106342](doi.org/10.1016/j.autcon.2025.106342)
 
-[17] <b>Dong Liwei</b>, Tang Qian, Li Xin, et al. Vortex-flutter internal resonance: A new mechanism for wind energy harvesting. <i><b>Nano Energy</b></i> 2025:111339. (SCI, JCR Q1, IF=17.1)[doi:10.1016/j.nanoen.2025.111339](https://doi.org/10.1016/j.nanoen.2025.111339)
+[17] <b>Dong Liwei</b>, Tang Qian, Li Xin, et al. Vortex-flutter internal resonance: A new mechanism for wind energy harvesting. <i><b>Nano Energy</b></i> 2025:111339. (SCI, JCR Q1, IF=17.1) [doi:10.1016/j.nanoen.2025.111339](https://doi.org/10.1016/j.nanoen.2025.111339)
 
 [16] <b>Dong Liwei</b>, Zhao Chaoyang, Han Chengjia, Yang Yaowen, Yang Fan. Advancement of AI-assisted self-powered healthcare sensing systems. <i><b>Med Mat</b></i> 2025:10.1097. [doi:10.1097/mm9.0000000000000013](https://doi.org/10.1097/mm9.0000000000000013)
 
